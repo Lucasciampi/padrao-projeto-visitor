@@ -6,5 +6,4 @@ Padrao de Projeto comportamental Visitor - Contratos com diferentes tipos de Col
 
 Diagrama de Classes:
 
-<img width="483" height="593" alt="image" src="https://github.com/user-attachments/assets/614df5c0-04b5-46cf-b461-29661fe0c74a" />
-
+<img width="511" height="589" alt="image" src="https://github.com/user-attachments/assets/838ad414-993d-40af-b13a-6e12360544ac" />
